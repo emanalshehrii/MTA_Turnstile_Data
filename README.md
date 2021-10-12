@@ -1,4 +1,4 @@
-## Exploratory Data Analysis of MTA turnstile data Project
+## Exploratory Data Analysis of MTA turnstile data project
 
 #### Below are the links to different sections of project 1.
 - Donuts trucks (MVP) [click here](https://github.com/emanshehri/MyRepo/blob/main/Donuts_trucks%20(MVP).md)
