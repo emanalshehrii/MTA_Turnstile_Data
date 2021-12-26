@@ -7,4 +7,4 @@
 
 - Project Code [ click here ](https://github.com/emanshehri/MyRepo/blob/main/MTA_Turnstile_Project.ipynb)
 
-- Presentation [click here](https://github.com/emanshehri/MyRepo/blob/main/presentation1.pdf)
+- Presentation [click here](https://github.com/emanalshehrii/MTA_Turnstile_Data/blob/main/presentation2.pdf)
